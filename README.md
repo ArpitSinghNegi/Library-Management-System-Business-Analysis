@@ -1,7 +1,7 @@
 # Library Management System for Stanford
 
 **Project Type:** Business Analysis Case Study  
-**Duration:** Jan 2025  
+**Duration:** Sep 2025  
 **Platform:** Simplilearn – AI-Powered Business Analyst Master Program  
 
 ---
